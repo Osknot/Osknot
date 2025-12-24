@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Osknot
-- 👀 I’m interested in data science||machine learning||python dev
-- 🌱 I’m currently learning python development
-- 💞️ I’m looking to collaborate on data science and python projects
+- 👋 Hi, I’m Iniobong Oscar
+- 👀 I do python dev, FUll stack software dev. AI and automation.
+- 🌱 Django, n8n, Mobile and web dev
+- 💞️ Looking to build solutions to problems
 
-- 😄 Pronouns: Osknot
-- ⚡ Fun fact: The fastest touch typist. A great data enthusiast
+- 😄 Brand name: Osknot
+- ⚡ Fun fact: The fastest touch typist. A great guy
 
 <!---
 Osknot/Osknot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
